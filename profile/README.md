@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# AppOps is an open source, java based microservices framework with unique features to help application development lifecycle a breeze. You can find detailed documentation at  [appops.org](https://www.appops.org)
+AppOps is an open source, java based microservices framework with unique features to help application development lifecycle a breeze. You can find detailed documentation at  [appops.org](https://www.appops.org)
